@@ -1,6 +1,6 @@
 import base64
 import json
-
+# edicion
 # --- LÓGICA DE LA APLICACIÓN (Seguro) ---
 def _validar_perfil(perfil):
     """Validación simple del perfil. Lanzará ValueError si es inválido."""
